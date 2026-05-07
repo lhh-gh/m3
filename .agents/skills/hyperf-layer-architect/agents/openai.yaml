@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hyperf Layer Architect"
+  short_description: "Guide Hyperf layering, static analysis, and memory-risk review."
+  default_prompt: "Use this skill to decide where Hyperf code belongs, review layer responsibility, run static analysis, and check memory risks for long-running Hyperf/Swoole paths."
